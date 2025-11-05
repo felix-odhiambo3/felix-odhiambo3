@@ -56,9 +56,9 @@ We believe in combining innovation with purpose — technology should not just c
 
 ## 💬 Connect With Us
 
-🌍 Website: [www.felafrikatech.com](#)  
+🌍 Website: [[www.felafrikatech.com](#)](https://felafrikatechnologies.netlify.app/)  
 💼 LinkedIn: [Felafrika Technologies](#)  
-📧 Email: [contact@felafrikatech.com](mailto:contact@felafrikatech.com)
+📧 Email: [contact@felafrikatech.com](mailto:odhiambo3felix@gmail.com)
 
 ---
 
